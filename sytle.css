@@ -1,0 +1,26 @@
+.resimSlider{
+    
+    width: 600px; /* Sadece genişliği belirtin */
+    
+}
+
+body{
+    
+    padding-top:50px; 
+    
+  font-family: "Raleway", sans-serif;
+
+}
+
+
+.hakkimizda{
+    
+    background-color:#f2f2f2;
+}
+
+.ayrac{
+    border:none;
+    border-top:5px solid #343a40; 
+    max-width:250px;
+    margin:25px auto;
+}
